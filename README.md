@@ -1,1 +1,1 @@
-# ghana-landingpagee
+# ghana-landingpagee bug-fix
